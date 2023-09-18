@@ -1,5 +1,5 @@
 # Calista Crib
-This app is a submission for Dicoding ["Belajar Membuat Front-End Web untuk Pemula"](https://www.dicoding.com/academies/123/corridor) online course.
+This app is a submission for Dicoding [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/academies/123/corridor) online course.
 
 Calista Crib is a landing page to describe what is calisthenics and its benefits. This website is made with vanilla JavaScript, also fully responsive.
 
